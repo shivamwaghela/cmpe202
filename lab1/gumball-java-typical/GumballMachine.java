@@ -1,5 +1,4 @@
-
-public class GumballMachine
+public class GumballMachine implements GumballMachineInterface
 {
 
     private int num_gumballs;
@@ -12,7 +11,8 @@ public class GumballMachine
         this.has_quarter = false;
     }
 
-    public void insertQuarter(int coin)
+   
+    public void insertCoin(int coin)
     {
         if ( coin == 25 )
             this.has_quarter = true ;
