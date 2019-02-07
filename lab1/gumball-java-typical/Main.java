@@ -43,6 +43,30 @@ public class Main {
         gumballMachine2.insertCoin( 25 );
         gumballMachine2.turnCrank();
         
-  
+        System.out.println();
+        
+        // Gumball Machine 3: Accepts All Coins
+        System.out.println("Gumball Machine 3 (Cost: 50 cents): Accepts All Coins");
+        GumballMachine3 gumballMachine3 = new GumballMachine3(2);
+        System.out.println(gumballMachine3);
+        
+        System.out.println("Inserting a quarter...");
+        gumballMachine3.insertCoin( 25 );
+        gumballMachine3.turnCrank();
+        
+        System.out.println("Inserting a nickel...");
+        gumballMachine3.insertCoin( 5 );
+        gumballMachine3.turnCrank();
+        
+        System.out.println("Inserting a penny...");
+        gumballMachine3.insertCoin( 1 );
+        gumballMachine3.turnCrank();
+        
+        
+        System.out.println("Inserting a quarter...");
+        gumballMachine3.insertCoin( 25 );
+        gumballMachine3.turnCrank();
+    
+        
     }
 }
