@@ -44,3 +44,5 @@ Table Availability
         - Notifies Table Manager when table becomes available
     Collaborators:
         - Table Manager
+
+![communication diagram](https://github.com/shivamwaghela/cmpe202/blob/master/lab4/output/dintaifung_communication_diagram.jpg)
