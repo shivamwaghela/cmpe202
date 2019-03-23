@@ -5,4 +5,4 @@
 Pattern used are Decorator and Composite
 
 
-[counter-burger-class-diagram.jpg Image File](counter-burger-class-diagram.jpg)
+![counter-burger-class-diagram.jpg](counter-burger-class-diagram.jpg)
