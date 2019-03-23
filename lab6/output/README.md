@@ -6,4 +6,4 @@
 
 ## Demo Output
 
-![five-guys-burger-design-patterns] (/five-guys-burger-design-patterns.png)
+![five-guys-burger-design-patterns](https://github.com/shivamwaghela/cmpe202/blob/master/lab6/output/five-guys-burger-design-patterns.png)
