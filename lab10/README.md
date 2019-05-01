@@ -10,3 +10,14 @@
    - Using AspectJ, the programmer can simply change the structure of a class at compile time based on the selected configurations in the config file. 
    - Unlike Lab 1, new type of configuration for Gumball Machine can be easily added by simply introducing new AspectJ file.
 
+#### Crank Model - 25
+![CrankModel-25](https://github.com/shivamwaghela/cmpe202/blob/master/lab10/screenshots/CrankModel-25.png)
+
+#### Crank Model - 50
+![CrankModel-25](https://github.com/shivamwaghela/cmpe202/blob/master/lab10/screenshots/CrankModel-50.png)
+
+#### Slot Model - 25
+![CrankModel-25](https://github.com/shivamwaghela/cmpe202/blob/master/lab10/screenshots/SlotModel-25.png)
+
+#### Slot Model - 50
+![CrankModel-25](https://github.com/shivamwaghela/cmpe202/blob/master/lab10/screenshots/SlotModel-50.png)
